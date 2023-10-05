@@ -8,6 +8,6 @@ An application for creating, editing, storing and viewing notes
 - To delete a note, select it with a single left-click and press the delete key
 - You can close the application using the key combination alt f4
 
-  ### Peculiarities
+  ## Peculiarities
   - The application is always located in the lower right corner of the screen
   - Application window sizes are fixed
